@@ -5,7 +5,6 @@
 
 ### - I'm 17 years  old Flutter mobile developer from Kyrgystan.
 
-
 ### - Learning :
 -  Data Structures & Algorithms
 - Generative Adversarial Networks
@@ -51,6 +50,20 @@
   </a>
   </p>
 
+
+# Contact me :
+
+<a href="#">
+	<img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="#">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+<a href="#">
+    <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a> 
 </br>
 </br>
 </br>
