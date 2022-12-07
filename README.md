@@ -52,7 +52,7 @@
 
 
 # Contact me :
-
+<p align="center" >
 <a href="https://t.me/denihero">
 	<img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
 </a>
@@ -64,6 +64,7 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPtlTPBVptswmkDbrBHJKztwtTpxbzcNFcCbGbgddHdwrbrxKbHvwzJsfXcZJmKpqFpMS">
     <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a> 
+</p>
 </br>
 </br>
 </br>
