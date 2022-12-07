@@ -58,7 +58,7 @@
 </a>
 
 <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/linked.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 <a href="#">
