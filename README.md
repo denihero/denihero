@@ -53,30 +53,17 @@
 
 # Contact me :
 
-<a href="#">
+<a href="https://t.me/denihero">
 	<img src="svg/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="#">
-    <img src="svg/social/linked.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+<a href="https://www.linkedin.com/in/daniyarbek-zaitov-965409228/">
+    <img src="svg/linked.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="#">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPtlTPBVptswmkDbrBHJKztwtTpxbzcNFcCbGbgddHdwrbrxKbHvwzJsfXcZJmKpqFpMS">
     <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a> 
-</br>
-</br>
-</br>
-
-
-
-
-
-
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
