@@ -38,17 +38,23 @@
     <img src="svg/bloc.svg" alt="Bloc" style="vertical-align:top; margin:6px 4px">
 </a>
 
+
 <a href="#">
    <img src="svg/gits.svg" alt="git" style="vertical-align:top; margin:6px 4px;">
 </a>
+
 
 <a href="#">
     <img src="svg/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px;">
 </a>
 
+<br>
+
 <a href="#">
     <img src="svg/figma.svg" alt="figma" style="vertical-align:top; margin:6px 4px;">
 </a>
+
+
 
 <a href="#">
     <img src="svg/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
@@ -57,8 +63,6 @@
 <a href="#">
     <img src="svg/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
 </a>
-
-
 
 
 
@@ -100,9 +104,7 @@
 
 </p>
 
-</br>
-</br>
-</br>
+
 
 
 
