@@ -5,15 +5,42 @@
 
 ### - I'm 17 years  old Flutter mobile developer from Kyrgystan.
 
+
+<div class="about_me">
+    <style>
+.about_me{
+ width: 100%;
+height: 140px;
+white-space: nowrap;
+overflow-x: auto;
+}
+.child{ 
+display: inline-block;
+width: 50%;
+height: 100%;
+}
+
+</style>
+
+<div class="child">
+
 ### - Learning :
 -  Data Structures & Algorithms
 - Generative Adversarial Networks
 - Clean Architecture
 
+</div>
+<div class="child">
+
 ### - Hobbies :
 - Gaming Addict
-- Watching Anime
+- Watching Anime 
 - Reading Manga and Ranobe
+
+</div>
+</div>
+
+
 
 </br>
 </br>
