@@ -1,28 +1,14 @@
-# Hi
+# Hi I'am Daniyar 
 
 
-# About ME  :
+# About Me  💬:
 
 ### - I'm 17 years  old Flutter mobile developer from Kyrgystan.
 
 
-<div class="about_me">
-    <style>
-.about_me{
- width: 100%;
-height: 140px;
-white-space: nowrap;
-overflow-x: auto;
-}
-.child{ 
-display: inline-block;
-width: 50%;
-height: 100%;
-}
+<div style="width: 100%;height: 140px;white-space: nowrap;overflow-x: auto;">
 
-</style>
-
-<div class="child">
+<div style="display: inline-block; width: 50%;height: 100%;">
 
 ### - Learning :
 -  Data Structures & Algorithms
@@ -30,7 +16,8 @@ height: 100%;
 - Clean Architecture
 
 </div>
-<div class="child">
+
+<div style="display: inline-block; width: 50%;height: 100%;">
 
 ### - Hobbies :
 - Gaming Addict
@@ -41,14 +28,13 @@ height: 100%;
 </div>
 
 
-
-</br>
 </br>
 </br>
 
 
 
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
