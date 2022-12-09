@@ -11,10 +11,9 @@
 - Clean Architecture
 
 ### - Hobbies :
--  Gaming Addict
+- Gaming Addict
 - Watching Anime
 - Reading Manga and Ranobe
-- Badminton (Neighbourhood Professional XD)
 
 </br>
 </br>
