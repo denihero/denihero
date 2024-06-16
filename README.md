@@ -3,7 +3,7 @@
 
 # About Me  💬:
 
-### - I'm 18 years  old Flutter mobile developer from Kyrgystan.
+### - I'm 19 years  old Flutter mobile developer from Kyrgystan.
 
 
 <div style="width: 100%;height: 140px;white-space: nowrap;overflow-x: auto;">
